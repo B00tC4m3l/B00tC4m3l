@@ -22,7 +22,6 @@
   <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=B00tC4m3l&theme=radical" />
 </p>
 
-> ⚠️ If you ever change your GitHub username, update the `username=` parameter in the URLs above.
 
 ---
 
@@ -55,7 +54,7 @@ Examples:
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-B00tC4m3l-9cf)](https://tryhackme.com/p/B00tC4m3l)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-B00tC4m3l-ff66b2)](https://www.hackthebox.com/home/users/profile/B00tC4m3l)
 
-> If these links don't point to your profile, replace the `B00tC4m3l` segment with your real usernames.
+LINKS MAY BE BROKEN AT THE MOMENT!
 
 ---
 
@@ -68,8 +67,7 @@ Examples:
 
 ## 📫 Where to find me
 - GitHub: `https://github.com/B00tC4m3l`  
-- TryHackMe: `https://tryhackme.com/p/B00tC4m3l`  
-- Hack The Box: `https://www.hackthebox.com/home/users/profile/B00tC4m3l`  
+- LINKTREE: `https://https://linktr.ee/B00tC4m3l`  
 - Drop a cat meme and say hi 😼
 
 ---
