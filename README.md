@@ -1,10 +1,13 @@
 # 🖖 Hey, I’m B00tC4m3l
 
+<p align="center">
+  <img src="https://github.com/B00tC4m3l/B00tC4m3l/blob/main/assets/sukuna.gif" alt="Logo" width="400"/>
+</p>
+
 🎓 Aspiring Computer Science student at the **University of Eastern Finland**  
 🔍 Specializing in backend engineering — Go & TypeScript stacks  
 💡 Learning with [Boot.dev](https://boot.dev) & [freeCodeCamp](https://www.freecodecamp.org)  
 🚀 Currently building backend projects, writing tests, and surviving the debugging circus
-
 ---
 
 ## 📊 GitHub Stats
@@ -28,9 +31,17 @@
 ## 🛠️ Tech Stack
 
 **Languages:**
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-- **Databases:** PostgreSQL (learning more everyday)  
-- **Tools:** Docker, Git, Node.js, Express  
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+**Databases:** 
+- PostgreSQL (learning more everyday)  
+**Dev Frameworks**
+- Node.js, Express
+**Dev Tools:** 
+- Docker, Git, Powerbi, Kubernetes, 
+**Game Engines**
+- Unity, Unreal engine 4, Godot
+**Pentest Tools**
+![Metasploit](https://img.shields.io/badge/metasploit-%23121011.svg?style=for-the-badge&logo=metasploit&logoColor=white) ![BurpSuite](https://img.shields.io/badge/BurpSuite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%23167C80.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 - **Learning focus:** Go web frameworks, testing, API design, scalable backend patterns
 
 ---
