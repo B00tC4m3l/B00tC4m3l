@@ -1,7 +1,7 @@
 # 🖖 Hey, I’m B00tC4m3l
 
 <p align="center">
-  <img src="https://github.com/B00tC4m3l/B00tC4m3l/blob/main/assets/sukuna.gif" alt="Logo" width="400"/>
+  <img src="https://github.com/B00tC4m3l/B00tC4m3l/blob/main/assets/sukuna.gif" alt="Logo" width="100%"/>
 </p>
 
 🎓 Aspiring Computer Science student at the **University of Eastern Finland**  
